@@ -51,6 +51,7 @@
 ## Spain
 
 ## Switzerland
+- [Cloud Computing Strategy (in German) 2012](https://www.egovernment.ch/en/umsetzung/e-government-schweiz-2008-2015/cloud-computing-schweiz/)
 
 ## UK
 - [Government cloud strategy](https://www.gov.uk/government/publications/government-cloud-strategy)
